@@ -1,0 +1,41 @@
+body{
+	background-color: lightblue;
+}
+
+img {
+	border-color: black;
+	border: 2px solid;
+}
+
+.left {
+	float: left;
+	margin: 8px;
+}
+
+.right {
+	float: right;
+	margin: 8px;
+	margin-bottom: 20px;
+}
+
+.border {
+	border-color: black;
+	border: 1px solid;
+	width: 840px;
+}
+
+h2 {
+	margin: 8px;
+}
+
+p {
+	margin-left: 8px;
+	margin-right: 8px;
+}
+
+.foto {
+	float: left;
+	margin-left: 1px;
+	margin-right: 8px;
+	margin-top: 10px;
+}
